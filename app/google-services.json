@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665597970036",
+    "firebase_url": "https://shoppingbasket-7240f.firebaseio.com",
+    "project_id": "shoppingbasket-7240f",
+    "storage_bucket": "shoppingbasket-7240f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665597970036:android:63cbbdd1b4767b73c2b321",
+        "android_client_info": {
+          "package_name": "com.example.shoppingbasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665597970036-nd7g8nvtgsg9jv26mqi213pbq54i7rfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_GyERwwMlBHRR7z18Z052vam4-F9F9hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665597970036-nd7g8nvtgsg9jv26mqi213pbq54i7rfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
